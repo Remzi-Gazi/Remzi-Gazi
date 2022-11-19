@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Remzi-Gazi
+- 👋 Hi, I’m Remzi Gazi
 - 👀 I’m interested in game development.
 
 <!---
