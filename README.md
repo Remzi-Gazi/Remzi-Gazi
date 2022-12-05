@@ -1,4 +1,4 @@
-### 🛠 Languages:
+### :man_technologist: Languages:
 
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="100" height="100"/>&nbsp;
@@ -6,7 +6,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="100" height="100"/>&nbsp;
 </p>
 
-### 🛠 Tools:
+### :toolbox: Tools:
 <p>
   <img src="https://i.redd.it/8n6x4gk2pnr71.png" title="Unity" alt="Unity" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VisualStudio" alt="VisualStudio" width="100" height="100"/>&nbsp;
